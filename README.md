@@ -1,2 +1,2 @@
-# random-quote-generator-techdegree-1
- My first techdegree project - Fundamentals of JavaScript
+#Random Quote Generator
+My first techdegree project - Fundamentals of JavaScript
