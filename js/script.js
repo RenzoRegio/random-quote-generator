@@ -116,7 +116,7 @@ function printQuote() {
 
 function changeColor(min, max) {
   const randomColor = Math.ceil(Math.random() * (max - min));
-  document.querySelector("body").style.backgroundColor = `rgb(${
+  document.querySelector(".js-bg-color").style.backgroundColor = `rgb(${
     randomColor * Math.random()
   }, ${randomColor}, ${randomColor * Math.random()})`;
 }
